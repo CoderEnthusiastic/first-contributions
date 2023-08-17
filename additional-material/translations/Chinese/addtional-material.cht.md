@@ -44,3 +44,4 @@
 ### [擠壓 commits](../../git_workflow_scenarios/squashing-commits.md)
 這份文件教你如何藉由互動式 rebase 擠壓 commits。
 > 如果你想要發出一個 PR，但檢閱者要求你將一部份 commits 擠壓成一個 commits 藉由互動式 rebase。
+added this new feature
